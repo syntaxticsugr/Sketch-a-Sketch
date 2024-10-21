@@ -1,6 +1,6 @@
-gradio==3.41
-diffusers
-controlnet_aux
 accelerate
-transformers
+controlnet_aux
+diffusers
+gradio==5.1.0
 torch
+transformers
